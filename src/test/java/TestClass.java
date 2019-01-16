@@ -23,7 +23,7 @@ public class TestClass {
         $("#username").shouldHave(text("Hello, Johny!"));
 
 
-        $(".class").
+//        $(".class").
 
 
     }
